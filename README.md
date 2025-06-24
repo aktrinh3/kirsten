@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi! I’m Kirsten, a former biology major now diving into the world of software development. I’m passionate about building useful, beginner-friendly tools and learning everything I can along the way.<br><br>
 🔭 I’m currently working on:<br>A budgeting and expense-tracking app for independent workers, built with JavaScript and React as part of my #100Devs journey.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly open-source projects, especially ones focused on education, health, or personal productivity.<br><br>🤝 I’m looking for help with:<br>Understanding backend development, APIs, and deploying full-stack apps.<br><br>🌱 I’m currently learning:<br>JavaScript, HTML, CSS, React, and AWS. I'm also tinkering with my Raspberry Pi 5 to learn more about hardware and automation.<br><br>💬 Ask me about:<br>Pivoting from biology/healthcare to tech, coding bootcamp experiences, or how I keep learning while juggling multiple interests.<br><br>⚡ Fun fact:<br>I once helped tutor kids in coding during high school, and now I’m making a full circle back into tech!
 
 
